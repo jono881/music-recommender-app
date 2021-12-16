@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Sort"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/sort_song_name"
+                android:title="Song name (A to Z)" />
+            <item
+                android:id="@+id/sort_song_name_des"
+                android:title="Song name (Z to A)" />
+            <item
+                android:id="@+id/sort_song_artist"
+                android:title="Artist (A to Z)" />
+            <item
+                android:id="@+id/sort_song_artist_des"
+                android:title="Artist (Z to A)" />
+            <item
+                android:id="@+id/sort_song_genre"
+                android:title="Genre (A to Z)" />
+            <item
+                android:id="@+id/sort_song_genre_des"
+                android:title="Genre (Z to A)" />
+            <item
+                android:id="@+id/sort_song_rating"
+                android:title="Rating (Ascending order)" />
+            <item
+                android:id="@+id/sort_song_rating_des"
+                android:title="Rating (Descending order)" />
+            <item
+                android:id="@+id/sort_reset"
+                android:title="Reset" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+</menu>

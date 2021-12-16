@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MusicRecommender" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/indigo</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+
+<!--        Can also add #023E8A in future-->
+<!--        <item name="android:textColorPrimary">@color/white</item>-->
+<!--        <item name="colorPrimary">@android:color/transparent</item>-->
+<!--        <item name="colorAccent">@color/blue_dark</item>-->
+<!--        <item name="windowActionBarOverlay">true</item>-->
+        <item name="android:fontFamily">@font/quicksand_bold</item>
+        <item name="colorButtonNormal">@color/pink</item>
+
+
+    </style>
+
+    <style name="PrimaryColoredButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="colorButtonNormal">@color/pink</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+</resources>

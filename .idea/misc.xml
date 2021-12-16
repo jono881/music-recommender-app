@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/drawable/bg_menu.xml" value="0.312719298245614" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/drawable/button.xml" value="0.312719298245614" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/drawable/button_invert.xml" value="0.181140350877193" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/drawable/card_song.xml" value="0.22236842105263158" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/drawable/ic_launcher_background.xml" value="0.181140350877193" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/font/fonts.xml" value="0.32456140350877194" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/font/quicksand_bold.xml" value="0.32456140350877194" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/font/quicksand_light.xml" value="0.32456140350877194" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/layout/activity_main.xml" value="0.2526041666666667" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/layout/activity_song.xml" value="0.335" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/layout/activity_test_2.xml" value="0.25" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/layout/bg_menu.xml" value="0.29912280701754385" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/layout/song_row.xml" value="0.45" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/menu/menu_main.xml" value="0.335" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/menu/menu_song.xml" value="0.29912280701754385" />
+        <entry key="..\:/music-recommender-app-jono881/app/src/main/res/xml/network_security_config.xml" value="0.23596014492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
